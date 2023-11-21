@@ -19,4 +19,12 @@ public class Escola {
         this.identificacaoEscola = identificacaoEscola;
         this.anoFundacao = anoFundacao;
     }
+    
+    public void exibirInformacoes()
+    {
+        System.out.println("\nNome da escola: " + this.nomeEscola);
+        System.out.println("Endereco da escola: " + this.endereco);
+        System.out.println("ID da escola: " + this.identificacaoEscola);
+        System.out.println("Ano de fundacao da escola: " + this.anoFundacao);
+    }
 }
