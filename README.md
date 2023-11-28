@@ -1,5 +1,7 @@
 # Aplicativo-Para-Gerenciamento-de-Escolas
-Aplicativo voltado para gerenciamento e administração de instituições escolares.
+Aplicativo voltado para gerenciamento e administração de instituições escolares de ensino fundamental (1° ao 9° ano). 
+É possível cadastrar escolas, cursos, professores e alunos, assim como realizar o lançamento de notas desses alunos.
+O programa consegue gerar relatórios referentes a cada curso. Nele, são mostradas as notas dos alunos, a média e o desvio padrão.
 
 
 ## Participantes
